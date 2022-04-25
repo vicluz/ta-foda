@@ -5,3 +5,4 @@
 Olá bem vindo ao livro de receitas :wave:
 
 - strogonoff de carne
+- Pavê
